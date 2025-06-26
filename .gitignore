@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+world/
+
+# VS Code settings
+.vscode/
+
+# macOS and Linux
+.DS_Store
+*.swp
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+.env.*
+
+# Test coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+.cache
